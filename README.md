@@ -5,4 +5,5 @@
 - [x] dia 3 - condicional que verifica se um numero é par ou impar
 - [x] dia 4 - laço de repetição
 - [x] dia 5 - função que imprime o quadrado de um numero
-- [x] dia 6 -
+- [x] dia 6 - lista de frutas
+- [x] dia 7 - dicionario de aluno dinâmico e estático
