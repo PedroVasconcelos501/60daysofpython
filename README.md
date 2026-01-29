@@ -7,3 +7,4 @@
 - [x] dia 5 - função que imprime o quadrado de um numero
 - [x] dia 6 - lista de frutas
 - [x] dia 7 - dicionario de aluno dinâmico e estático
+- [ ] dia 8 -
