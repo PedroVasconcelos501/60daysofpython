@@ -7,4 +7,5 @@
 - [x] dia 5 - função que imprime o quadrado de um numero
 - [x] dia 6 - lista de frutas
 - [x] dia 7 - dicionario de aluno dinâmico e estático
-- [ ] dia 8 -
+- [x] dia 8 - função que verifica a idade que pode dirigir
+- [x] dia 9 - contador personalizado
