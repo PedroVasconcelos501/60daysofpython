@@ -9,3 +9,4 @@
 - [x] dia 7 - dicionario de aluno dinâmico e estático
 - [x] dia 8 - função que verifica a idade que pode dirigir
 - [x] dia 9 - contador personalizado
+- [x] dia 10 - gerador de senha
