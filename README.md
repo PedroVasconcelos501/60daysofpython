@@ -10,3 +10,4 @@
 - [x] dia 8 - função que verifica a idade que pode dirigir
 - [x] dia 9 - contador personalizado
 - [x] dia 10 - gerador de senha
+- [x] dia 11 - usamos a função sorted usamos a função sorte para ordenar uma lista de numeros
