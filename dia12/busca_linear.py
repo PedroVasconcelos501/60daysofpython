@@ -7,7 +7,7 @@ def busca_linear(lista, numero_procurado):
     :param numero_procurado: número a ser procurado
     """
 
-    for i, numero in enumerate (lista): #função nativa do python enumerate
+    for i, numero in enumerate (lista): #função nativa do python enumerate()
 #enumerate passa por cada item da lista enquanto contabiliza a partir do numero 0
         if numero == numero_procurado:
             return i #retorna o indice do numero encontrado
@@ -24,5 +24,6 @@ if buscando_o_numero != -1:
     
 else:
     print("Número não encontrado")
+
     
     
