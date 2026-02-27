@@ -18,4 +18,5 @@
 - [x] Dia 16 - Anagramas
 - [x] Dia 17 - Função que verifica palindromos
 - [x] Dia 18 - Contabilizador de palavras
-- [ ] Dia 19 - Calcular média de notas 
+- [x] Dia 19 - Calcular média de notas 
+- [x] Dia 20 - Matriz transposta
