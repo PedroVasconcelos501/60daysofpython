@@ -16,3 +16,4 @@
 - [x] Dia 14 - Verificador de numeros primos
 - [x] Dia 15 - Fibonacci
 - [x] Dia 16 - Anagramas
+- [x] Dia 17 - Função que verifica palindromos

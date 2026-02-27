@@ -14,6 +14,5 @@ def anagrama(palavra1, palavra2):
         return f"{palavra1} e {palavra2} são um anagrama"
     else:
         return f"{palavra1} e {palavra2} não são um anagrama"
-    
-
+     
 print(anagrama("roma", "amor"))
