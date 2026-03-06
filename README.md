@@ -20,3 +20,4 @@
 - [x] Dia 18 - Contabilizador de palavras
 - [x] Dia 19 - Calcular média de notas 
 - [x] Dia 20 - Matriz transposta
+- [x] Dia 21 - Conversor de moeda
