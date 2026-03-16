@@ -23,3 +23,4 @@
 - [x] Dia 21 - Conversor de moeda real para dolar e dolar para real
 - [x] Dia 22 - Calculadora de IMC
 - [x] Dia 23 - Jogo de adivinhação
+- [x] Dia 24 - Tabuada
