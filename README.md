@@ -29,4 +29,4 @@
 - [x] Dia 27 - Conversor de temperatura
 - [x] Dia 28 - Cronometro
 - [x] Dia 29 - Gerador de data e hora atual
-- [ ] Dia 30 -
+- [x] Dia 30 - Cronometro de contagem regressiva de 10 segundos
