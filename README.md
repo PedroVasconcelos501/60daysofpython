@@ -28,4 +28,5 @@
 - [x] Dia 26 - Função que escreve em .txt
 - [x] Dia 27 - Conversor de temperatura
 - [x] Dia 28 - Cronometro
-- [ ] Dia 29 - 
+- [x] Dia 29 - Gerador de data e hora atual
+- [ ] Dia 30 -
