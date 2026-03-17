@@ -26,3 +26,4 @@
 - [x] Dia 24 - Tabuada
 - [x] Dia 25 - Gerador de numeros aleatorios
 - [x] Dia 26 - Função que escreve em .txt
+- [ ] Dia 27 - 
