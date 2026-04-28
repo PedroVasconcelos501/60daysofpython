@@ -31,4 +31,5 @@
 - [x] Dia 29 - Gerador de data e hora atual
 - [x] Dia 30 - Cronometro de contagem regressiva de 10 segundos
 - [x] Dia 31 - Raiz quadrada
-- [] Dia 32 -
+- [x] Dia 32 - Lançamento de dado de 1 a 6
+- [x] Dia 33 - Contagem de ocorrencias
